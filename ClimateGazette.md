@@ -1,1 +1,1 @@
-# e3ci-workshop
+# Climate Gazette
