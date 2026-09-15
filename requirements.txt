@@ -1,0 +1,8 @@
+jupyter
+nbclient
+nbformat
+pandas
+plotly
+folium
+matplotlib
+seaborn
